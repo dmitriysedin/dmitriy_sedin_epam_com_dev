@@ -1,0 +1,1497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a94f6951-3de0-410b-828a-9242a78ec452" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IlluminatedCloudWorkspaceSettings">
+    <option name="moduleWorkspaceSettings">
+      <map>
+        <entry key="dmitriy_sedin_epam_com_dev">
+          <value>
+            <ModuleWorkspaceSettings>
+              <option name="moduleContentsLastModified" value="1563537843770" />
+            </ModuleWorkspaceSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectWorkspaceSettings">
+      <ProjectWorkspaceSettings>
+        <option name="anonymousApexSettings">
+          <AnonymousApexSettings>
+            <option name="apexLogLevel" value="FINEST" />
+          </AnonymousApexSettings>
+        </option>
+        <option name="connectionWorkspaceSettings">
+          <map>
+            <entry key="dmitriy_sedin@epam.com.dev">
+              <value>
+                <ConnectionWorkspaceSettings />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="metadataContents">
+          <map>
+            <entry key="dmitriy_sedin@epam.com.dev">
+              <value>
+                <MetadataContents>
+                  <option name="lastPopulated" value="1563537843770" />
+                  <option name="metadataTypes">
+                    <set>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Order.AllActivatedOrders" />
+                            <option value="Shop__c.All" />
+                            <option value="Opportunity.NewThisWeek" />
+                            <option value="Case.AllOpenCases" />
+                            <option value="Case.MyCases" />
+                            <option value="Order.AllDraftOrders" />
+                            <option value="User.ActiveUsers" />
+                            <option value="Order.AllOrders" />
+                            <option value="Scorecard.MyScorecards" />
+                            <option value="Opportunity.ClosingNextMonth" />
+                            <option value="Candidate__c.All" />
+                            <option value="Contact.AllContacts" />
+                            <option value="Opportunity.Default_Opportunity_Pipeline" />
+                            <option value="Case.MyOpenCases" />
+                            <option value="Opportunity.Private" />
+                            <option value="Contract.AllContracts" />
+                            <option value="Position__c.All" />
+                            <option value="Contract.MyActivatedContracts" />
+                            <option value="Zip_Code__c.All" />
+                            <option value="Recommendation.All_Recommendations" />
+                            <option value="Contract.AllDraftContracts" />
+                            <option value="WorkFeedbackRequest.AboutTopics" />
+                            <option value="ConsumptionSchedule.My_ConsumptionSchedules" />
+                            <option value="Contact.NewLastWeek" />
+                            <option value="Task.DelegatedTasks" />
+                            <option value="SocialPersona.AllSocialPersonas" />
+                            <option value="User.AllUsers" />
+                            <option value="Task.UnscheduledTasks" />
+                            <option value="Contract.MyDraftContracts" />
+                            <option value="Lead.TodaysLeads" />
+                            <option value="Task.CompletedTasks" />
+                            <option value="Solution.AllUnreviewedSolutions" />
+                            <option value="Activity.UpcomingEvents" />
+                            <option value="Account.NewLastWeek" />
+                            <option value="Account.MyAccounts" />
+                            <option value="Event.TodaysAgenda" />
+                            <option value="Opportunity.AllOpportunities" />
+                            <option value="Task.OpenTasks" />
+                            <option value="Task.OverdueTasks" />
+                            <option value="Contact.BirthdaysThisMonth" />
+                            <option value="Account.AllAccounts" />
+                            <option value="Opportunity.ClosingThisMonth" />
+                            <option value="Review__c.All" />
+                            <option value="ContactRequest.My_ContactRequests" />
+                            <option value="CollaborationGroup.All_ChatterGroups" />
+                            <option value="Contact.NewThisWeek" />
+                            <option value="Activity.AllActivities" />
+                            <option value="Opportunity.NewLastWeek" />
+                            <option value="Event.MyRecentEvents" />
+                            <option value="Event.MyTeamsRecentEvents" />
+                            <option value="Asset.AllAssets" />
+                            <option value="Job_Application__c.All" />
+                            <option value="User.AdminUsers" />
+                            <option value="Scorecard.AllScorecards" />
+                            <option value="Language_Course_Designer__c.All" />
+                            <option value="Campaign.MyActiveCampaigns" />
+                            <option value="Opportunity.MyOpportunities" />
+                            <option value="Lead.MyUnreadLeads" />
+                            <option value="Product2.AllProducts" />
+                            <option value="Campaign.AllActiveCampaigns" />
+                            <option value="Contact.MyContacts" />
+                            <option value="Activity.TodaysTasks" />
+                            <option value="ConsumptionSchedule.All_ConsumptionSchedules" />
+                            <option value="Task.RecurringTasks" />
+                            <option value="Opportunity.Won" />
+                            <option value="Case.AllClosedCases" />
+                            <option value="Job_Posting_Site__c.All" />
+                            <option value="Solution.AllReviewedSolutions" />
+                            <option value="Account.PlatinumandGoldSLACustomers" />
+                            <option value="Contract.MyInApprovalContracts" />
+                            <option value="Task.TodaysTasks" />
+                            <option value="Activity.MyActivities" />
+                            <option value="Corporation__c.All" />
+                            <option value="Event.MyTeamsUpcomingEvents" />
+                            <option value="Contract.AllInApprovalContracts" />
+                            <option value="WorkFeedbackTemplate.All" />
+                            <option value="Lead.AllOpenLeads" />
+                            <option value="Interviewer__c.All" />
+                            <option value="Account.NewThisWeek" />
+                            <option value="WorkFeedbackRequest.All" />
+                            <option value="Language_Course__c.All" />
+                            <option value="Lead.ViewCustom1" />
+                            <option value="Idea.Ideas_Last_7_Days" />
+                            <option value="Event.MyUpcomingEvents" />
+                            <option value="Lead.ViewCustom2" />
+                            <option value="Contract.AllActivatedContracts" />
+                          </set>
+                        </option>
+                        <option name="name" value="ListView" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="MyAppProfile_profileSessionSetting1563269535941" />
+                            <option value="HR_Recruiter_profileSessionSetting1563260063927" />
+                          </set>
+                        </option>
+                        <option name="name" value="ProfileSessionSetting" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Lead.Standard_Lead_Duplicate_Rule" />
+                            <option value="Account.Standard_Account_Duplicate_Rule" />
+                            <option value="Contact.Standard_Contact_Duplicate_Rule" />
+                          </set>
+                        </option>
+                        <option name="name" value="DuplicateRule" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="VPs" />
+                          </set>
+                        </option>
+                        <option name="name" value="Group" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="helloWorld" />
+                          </set>
+                        </option>
+                        <option name="name" value="LightningComponentBundle" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Case" />
+                          </set>
+                        </option>
+                        <option name="name" value="EscalationRules" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Case.Standard" />
+                          </set>
+                        </option>
+                        <option name="name" value="EscalationRule" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="SVPSalesMarketing" />
+                            <option value="MarketingTeam" />
+                            <option value="InstallationRepairServices" />
+                            <option value="Belarus_Sales_Team" />
+                            <option value="SVPCustomerServiceSupport" />
+                            <option value="VPInternationalSales" />
+                            <option value="ChannelSalesTeam" />
+                            <option value="CustomerSupportInternational" />
+                            <option value="CFO" />
+                            <option value="CustomerSupportNorthAmerica" />
+                            <option value="Accounts_Receivable" />
+                            <option value="VPMarketing" />
+                            <option value="DirectorDirectSales" />
+                            <option value="VP_of_Services" />
+                            <option value="COO" />
+                            <option value="DirectorChannelSales" />
+                            <option value="SVPHumanResources" />
+                            <option value="CEO" />
+                            <option value="EasternSalesTeam" />
+                            <option value="Customer_Support_Rep" />
+                            <option value="WesternSalesTeam" />
+                            <option value="Customer_Support_Director" />
+                            <option value="Sales_Engineer" />
+                            <option value="VPNorthAmericanSales" />
+                            <option value="Recruiter" />
+                          </set>
+                        </option>
+                        <option name="name" value="Role" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Process_Automation_Home" />
+                            <option value="Candidate_Record_Page" />
+                            <option value="MyApp_UtilityBar" />
+                            <option value="LightningSalesConsole_UtilityBar" />
+                            <option value="LightningService_UtilityBar" />
+                            <option value="MyTestHomePage" />
+                          </set>
+                        </option>
+                        <option name="name" value="FlexiPage" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Salesforce1" />
+                            <option value="AppSwitcher" />
+                          </set>
+                        </option>
+                        <option name="name" value="AppMenu" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Account.Approve_New_Account" />
+                            <option value="Opportunity.Approve_Opportunity_Discount" />
+                          </set>
+                        </option>
+                        <option name="name" value="ApprovalProcess" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="MyAppProfile_profilePasswordPolicy1563269535871" />
+                            <option value="HR_Recruiter_profilePasswordPolicy1563260063817" />
+                          </set>
+                        </option>
+                        <option name="name" value="ProfilePasswordPolicy" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Custom%3A Support Profile" />
+                            <option value="Customer Community Plus Login User" />
+                            <option value="High Volume Customer Portal User" />
+                            <option value="Analytics Cloud Integration User" />
+                            <option value="Force%2Ecom - Free User" />
+                            <option value="Cross Org Data Proxy User" />
+                            <option value="PlatformPortal" />
+                            <option value="External Identity User" />
+                            <option value="Force%2Ecom - App Subscription User" />
+                            <option value="Standard" />
+                            <option value="Chatter External User" />
+                            <option value="Recruiter%3A Technical" />
+                            <option value="Identity User" />
+                            <option value="Custom%3A Sales Profile" />
+                            <option value="Partner Community Login User" />
+                            <option value="ContractManager" />
+                            <option value="Customer Community Plus User" />
+                            <option value="MyAppProfile" />
+                            <option value="Partner Community User" />
+                            <option value="StandardAul" />
+                            <option value="Chatter Moderator User" />
+                            <option value="Gold Partner User" />
+                            <option value="SolutionManager" />
+                            <option value="ReadOnly" />
+                            <option value="Chatter Free User" />
+                            <option value="Recruiter%3A Nontechnical" />
+                            <option value="HighVolumePortal" />
+                            <option value="Customer Community Login User" />
+                            <option value="Customer Portal Manager Standard" />
+                            <option value="MarketingProfile" />
+                            <option value="Analytics Cloud Security User" />
+                            <option value="Admin" />
+                            <option value="Partner App Subscription User" />
+                            <option value="Silver Partner User" />
+                            <option value="Work%2Ecom Only User" />
+                            <option value="HR Recruiter" />
+                            <option value="Authenticated Website" />
+                            <option value="Customer Community User" />
+                            <option value="Custom%3A Marketing Profile" />
+                            <option value="Customer Portal Manager Custom" />
+                          </set>
+                        </option>
+                        <option name="name" value="Profile" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="ApexDevNet" />
+                          </set>
+                        </option>
+                        <option name="name" value="RemoteSiteSetting" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Case.Email_Alert_notifying_support_agents_of_new_case_at_large_account" />
+                            <option value="Contact.Communicate_with_VIP_clients" />
+                          </set>
+                        </option>
+                        <option name="name" value="WorkflowAlert" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Account" />
+                            <option value="Company" />
+                            <option value="Address" />
+                            <option value="Org" />
+                            <option value="Macro" />
+                            <option value="Product" />
+                            <option value="Security" />
+                            <option value="Knowledge" />
+                            <option value="Ideas" />
+                            <option value="Case" />
+                            <option value="Name" />
+                            <option value="FieldService" />
+                            <option value="LiveMessage" />
+                            <option value="OmniChannel" />
+                            <option value="Opportunity" />
+                            <option value="Search" />
+                            <option value="FileUploadAndDownloadSecurity" />
+                            <option value="Order" />
+                            <option value="Activities" />
+                            <option value="OrgPreference" />
+                            <option value="GoogleApps" />
+                            <option value="Bot" />
+                            <option value="BusinessHours" />
+                            <option value="UserInterface" />
+                            <option value="Forecasting" />
+                            <option value="Mobile" />
+                            <option value="Analytics" />
+                            <option value="ExperienceBundle" />
+                            <option value="Quote" />
+                            <option value="LiveAgent" />
+                            <option value="UserManagement" />
+                            <option value="Entitlement" />
+                            <option value="Contract" />
+                            <option value="PathAssistant" />
+                            <option value="Notifications" />
+                          </set>
+                        </option>
+                        <option name="name" value="Settings" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="DataCloudGeoLocation" />
+                          </set>
+                        </option>
+                        <option name="name" value="CleanDataService" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Position__c.Technical_Position" />
+                            <option value="Metric.Progress" />
+                            <option value="Metric.Completion" />
+                            <option value="Position__c.Nontechnical_Position" />
+                          </set>
+                        </option>
+                        <option name="name" value="RecordType" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Candidate__c.Includes_Candidate_Name" />
+                          </set>
+                        </option>
+                        <option name="name" value="CompactLayout" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Campaign.ViewCampaignInfluenceReport" />
+                            <option value="Opportunity.DeliveryStatus" />
+                            <option value="Case.UpsellCrosssellOpportunity" />
+                            <option value="Account.Billing" />
+                          </set>
+                        </option>
+                        <option name="name" value="WebLink" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Shop__c.Director_field_non_blank" />
+                            <option value="Position__c.Every_Position_Must_Have_a_Hiring_Mgr" />
+                            <option value="Candidate__c.Zip_Code_Consistent_with_State" />
+                          </set>
+                        </option>
+                        <option name="name" value="ValidationRule" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Order" />
+                            <option value="Account" />
+                            <option value="Position__c" />
+                            <option value="User" />
+                            <option value="Corporation__c" />
+                            <option value="Job_Posting_Site__c" />
+                            <option value="Case" />
+                            <option value="Contact" />
+                            <option value="Job_Application__c" />
+                            <option value="Candidate__c" />
+                            <option value="FlowInterview" />
+                            <option value="Campaign" />
+                            <option value="ListEmail" />
+                            <option value="Individual" />
+                            <option value="Opportunity" />
+                            <option value="Lead" />
+                            <option value="Applicant__c" />
+                            <option value="Asset" />
+                            <option value="Language_Course_Designer__c" />
+                            <option value="Zip_Code__c" />
+                            <option value="Interviewer__c" />
+                          </set>
+                        </option>
+                        <option name="name" value="SharingRules" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="DE Default" />
+                          </set>
+                        </option>
+                        <option name="name" value="HomePageLayout" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Interviewer__c.Share_Interviewers_Between_Recruiters" />
+                          </set>
+                        </option>
+                        <option name="name" value="SharingOwnerRule" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Opportunity.Share_Won_Opportunities_with_Account_Receivable" />
+                            <option value="Corporation__c.Share_records_by_teams" />
+                          </set>
+                        </option>
+                        <option name="name" value="SharingCriteriaRule" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="AW_Computing_logo" />
+                          </set>
+                        </option>
+                        <option name="name" value="ContentAsset" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="standard-Macro" />
+                            <option value="standard-Case" />
+                            <option value="standard-AuthorizationFormConsent" />
+                            <option value="standard-Solution" />
+                            <option value="standard-ContentSubscriptions" />
+                            <option value="Language_Course__c" />
+                            <option value="Job_Application__c" />
+                            <option value="Candidate__c" />
+                            <option value="standard-AuthorizationFormText" />
+                            <option value="Language_Course_Designer__c" />
+                            <option value="standard-DuplicateRecordSet" />
+                            <option value="standard-Account" />
+                            <option value="standard-home" />
+                            <option value="standard-WaveHome" />
+                            <option value="standard-OtherUserProfile" />
+                            <option value="Position__c" />
+                            <option value="standard-AppLauncher" />
+                            <option value="standard-DandBCompany" />
+                            <option value="standard-Individual" />
+                            <option value="standard-Campaign" />
+                            <option value="standard-Sites" />
+                            <option value="standard-report" />
+                            <option value="standard-DataUseLegalBasis" />
+                            <option value="standard-Recommendation" />
+                            <option value="standard-ConsumptionSchedule" />
+                            <option value="standard-Contract" />
+                            <option value="standard-DataUsePurpose" />
+                            <option value="standard-Chatter" />
+                            <option value="standard-Contact" />
+                            <option value="standard-Product2" />
+                            <option value="standard-Asset" />
+                            <option value="Shop__c" />
+                            <option value="standard-Idea" />
+                            <option value="standard-Image" />
+                            <option value="standard-StreamingChannel" />
+                            <option value="standard-AuthorizationForm" />
+                            <option value="standard-Dashboard" />
+                            <option value="standard-File" />
+                            <option value="standard-Document" />
+                            <option value="standard-Pricebook2" />
+                            <option value="standard-ListEmail" />
+                            <option value="Review__c" />
+                            <option value="standard-UserProfile" />
+                            <option value="standard-Order" />
+                            <option value="standard-Workspace" />
+                            <option value="standard-Forecasting3" />
+                            <option value="standard-ProfilePlatformFeed" />
+                            <option value="Corporation__c" />
+                            <option value="standard-CollaborationGroup" />
+                            <option value="Job_Posting_Site__c" />
+                            <option value="standard-AuthorizationFormDataUse" />
+                            <option value="standard-JigsawSearch" />
+                            <option value="standard-ContentSearch" />
+                            <option value="standard-Lead" />
+                            <option value="standard-ContentContribute" />
+                            <option value="standard-ProfilePlatformOverview" />
+                            <option value="standard-Console" />
+                            <option value="standard-ContactRequest" />
+                            <option value="standard-UserProvisioningRequest" />
+                            <option value="standard-Opportunity" />
+                            <option value="Zip_Code__c" />
+                            <option value="standard-ContactPointTypeConsent" />
+                            <option value="Interviewer__c" />
+                          </set>
+                        </option>
+                        <option name="name" value="CustomTab" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Shop__c" />
+                            <option value="Account" />
+                            <option value="Task" />
+                            <option value="Language_Course__c" />
+                            <option value="Case" />
+                            <option value="Job_Application__c" />
+                            <option value="Candidate__c" />
+                            <option value="Job_Posting__c" />
+                            <option value="Opportunity" />
+                            <option value="Lead" />
+                            <option value="Language_Course_Designer__c" />
+                            <option value="Asset" />
+                            <option value="Solution" />
+                            <option value="Review__c" />
+                            <option value="Order" />
+                            <option value="Position__c" />
+                            <option value="Corporation__c" />
+                            <option value="Job_Posting_Site__c" />
+                            <option value="Contact" />
+                            <option value="ContentDocument" />
+                            <option value="Campaign" />
+                            <option value="Applicant__c" />
+                            <option value="Event" />
+                            <option value="Zip_Code__c" />
+                            <option value="Contract" />
+                            <option value="Interviewer__c" />
+                          </set>
+                        </option>
+                        <option name="name" value="TopicsForObjects" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Lead" />
+                            <option value="Case" />
+                          </set>
+                        </option>
+                        <option name="name" value="AutoResponseRules" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Account-Account %28Sales%29 Layout" />
+                            <option value="Contact-Contact %28Support%29 Layout" />
+                            <option value="Product2-Product Layout" />
+                            <option value="Language_Course_Designer__c-Language Course Designer Layout" />
+                            <option value="Lead-Lead Layout" />
+                            <option value="ConsumptionRate-Consumption Rate Layout" />
+                            <option value="Contact-Contact Layout" />
+                            <option value="Case-Case %28Sales%29 Layout" />
+                            <option value="Lead-Lead %28Support%29 Layout" />
+                            <option value="AccountTeamMember-Account Team Member Layout" />
+                            <option value="DandBCompany-D%26B Company Layout" />
+                            <option value="Case-Case %28Support%29 Layout" />
+                            <option value="AssetRelationship-Asset Relationship Layout" />
+                            <option value="Macro-Macro Layout" />
+                            <option value="Job_Application__c-Job Application Layout" />
+                            <option value="Order-Order Layout" />
+                            <option value="UserProvisioningRequest-User Provisioning Request Layout" />
+                            <option value="ScorecardMetric-Scorecard Metric Layout" />
+                            <option value="Solution-Solution Layout" />
+                            <option value="Pricebook2-Price Book Layout" />
+                            <option value="Event-Event Layout" />
+                            <option value="UserProvisioningLog-User Provisioning Log Layout" />
+                            <option value="UserProvAccount-User Provisioning Account Layout" />
+                            <option value="Contact-Contact %28Marketing%29 Layout" />
+                            <option value="Task-Task Layout" />
+                            <option value="ConsumptionSchedule-Consumption Schedule Layout" />
+                            <option value="Opportunity-Opportunity Layout" />
+                            <option value="Asset-Asset Layout" />
+                            <option value="Candidate__c-Candidate Layout" />
+                            <option value="Language_Course__c-Language Course Layout" />
+                            <option value="OrderItem-Order Product Layout" />
+                            <option value="DuplicateRecordSet-Duplicate Record Set Layout" />
+                            <option value="OpportunityLineItem-Opportunity Product Layout" />
+                            <option value="Case-Case Layout" />
+                            <option value="Contract-Contract Layout" />
+                            <option value="Shop__c-Shop Layout" />
+                            <option value="Account-Account Layout" />
+                            <option value="Campaign-Campaign Layout" />
+                            <option value="Position__c-Position Layout" />
+                            <option value="CommunityMemberLayout-Community Member Layout" />
+                            <option value="ScorecardAssociation-Scorecard Association Layout" />
+                            <option value="Opportunity-Opportunity %28Sales%29 Layout" />
+                            <option value="SocialPersona-Social Persona Layout" />
+                            <option value="Scorecard-Scorecard Layout" />
+                            <option value="Case-Case %28Marketing%29 Layout" />
+                            <option value="PricebookEntry-Price Book Entry Layout" />
+                            <option value="CaseClose-Close Case Layout" />
+                            <option value="FeedItem-Feed Item Layout" />
+                            <option value="Idea-Idea Layout" />
+                            <option value="Position__c-Technical Position Layout" />
+                            <option value="ContentVersion-Content Version Layout" />
+                            <option value="Opportunity-Opportunity %28Support%29 Layout" />
+                            <option value="Global-Global Layout" />
+                            <option value="Lead-Lead %28Sales%29 Layout" />
+                            <option value="Account-Account %28Marketing%29 Layout" />
+                            <option value="Zip_Code__c-Zip Code Layout" />
+                            <option value="EmailMessage-Email Message Layout" />
+                            <option value="Individual-Individual Layout" />
+                            <option value="SocialPost-Social Post Layout" />
+                            <option value="ProductConsumptionSchedule-Product Consumption Schedule Layout" />
+                            <option value="Applicant__c-Applicant Layout" />
+                            <option value="Job_Posting__c-Job Posting Layout" />
+                            <option value="CampaignMember-Campaign Member Page Layout" />
+                            <option value="Account-Account %28Support%29 Layout" />
+                            <option value="Review__c-Review Layout" />
+                            <option value="QuickText-Quick Text Layout" />
+                            <option value="Contact-Contact %28Sales%29 Layout" />
+                            <option value="User-User Layout" />
+                            <option value="Lead-Lead %28Marketing%29 Layout" />
+                            <option value="Job_Posting_Site__c-Job Posting Site Layout" />
+                            <option value="Opportunity-Opportunity %28Marketing%29 Layout" />
+                            <option value="Corporation__c-Corporation Layout" />
+                            <option value="Interviewer__c-Interviewer Layout" />
+                          </set>
+                        </option>
+                        <option name="name" value="Layout" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Debug_communicate_with_vip" />
+                            <option value="MyTestProcess" />
+                            <option value="TestEmail" />
+                            <option value="sse" />
+                            <option value="qwer" />
+                            <option value="Closed_Won_Opportunities" />
+                            <option value="communicate_with_VIP_Clients" />
+                            <option value="ghmn" />
+                            <option value="Quick_Account" />
+                            <option value="Renew_Opportunity" />
+                            <option value="xdf" />
+                            <option value="New_Lead" />
+                            <option value="Send_email_record_s_owner_about_communication_with_VIP_client" />
+                          </set>
+                        </option>
+                        <option name="name" value="Flow" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Department" />
+                          </set>
+                        </option>
+                        <option name="name" value="GlobalValueSet" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Review__c-en_US" />
+                            <option value="Language_Course_Designer__c-en_US" />
+                            <option value="Job_Application__c-en_US" />
+                            <option value="Job_Posting_Site__c-en_US" />
+                            <option value="Applicant__c-en_US" />
+                            <option value="Candidate__c-en_US" />
+                            <option value="Shop__c-en_US" />
+                            <option value="Job_Posting__c-en_US" />
+                            <option value="Interviewer__c-en_US" />
+                            <option value="Position__c-en_US" />
+                            <option value="Zip_Code__c-en_US" />
+                            <option value="Corporation__c-en_US" />
+                            <option value="Language_Course__c-en_US" />
+                          </set>
+                        </option>
+                        <option name="name" value="CustomObjectTranslation" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="CustomLabels" />
+                          </set>
+                        </option>
+                        <option name="name" value="CustomLabels" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="AccountHandler" />
+                            <option value="ContactAndLeadSearch" />
+                            <option value="MyEmailManager" />
+                            <option value="EmailManager" />
+                            <option value="StringArrayTest" />
+                            <option value="ContactSearch" />
+                          </set>
+                        </option>
+                        <option name="name" value="ApexClass" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Internal Zone" />
+                          </set>
+                        </option>
+                        <option name="name" value="Community" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Contact.Standard_Contact_Match_Rule_v1_1" />
+                            <option value="Account.Standard_Account_Match_Rule_v1_0" />
+                            <option value="Lead.Standard_Lead_Match_Rule_v1_0" />
+                          </set>
+                        </option>
+                        <option name="name" value="MatchingRule" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Account" />
+                            <option value="Individual" />
+                            <option value="Lead" />
+                            <option value="Contact" />
+                          </set>
+                        </option>
+                        <option name="name" value="MatchingRules" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Lead" />
+                            <option value="Case" />
+                          </set>
+                        </option>
+                        <option name="name" value="AssignmentRules" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Case.Standard" />
+                            <option value="Lead.Standard" />
+                          </set>
+                        </option>
+                        <option name="name" value="AssignmentRule" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="MyApp" />
+                            <option value="Recruiting" />
+                            <option value="standard__Sales" />
+                            <option value="standard__LightningService" />
+                            <option value="standard__ServiceConsole" />
+                            <option value="standard__Community" />
+                            <option value="standard__AppLauncher" />
+                            <option value="standard__LightningInstrumentation" />
+                            <option value="standard__Chatter" />
+                            <option value="standard__Platform" />
+                            <option value="standard__LightningSales" />
+                            <option value="standard__Service" />
+                            <option value="standard__Marketing" />
+                            <option value="standard__Content" />
+                            <option value="standard__Sites" />
+                            <option value="standard__LightningBolt" />
+                            <option value="standard__LightningSalesConsole" />
+                            <option value="standard__Insights" />
+                          </set>
+                        </option>
+                        <option name="name" value="CustomApplication" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="NewGroup" />
+                            <option value="SendEmail" />
+                            <option value="NewLead" />
+                            <option value="NewOpportunity" />
+                            <option value="NewTask" />
+                            <option value="NewAccount" />
+                            <option value="Task.UpdatePriority" />
+                            <option value="Task.UpdatePriority_0" />
+                            <option value="Task.Defer" />
+                            <option value="Task.EditDescription" />
+                            <option value="FeedItem.NewTaskFromFeedItem" />
+                            <option value="NewNote" />
+                            <option value="Task.EditDescription_0" />
+                            <option value="CollaborationGroup.NewGroupMember" />
+                            <option value="CollaborationGroup.NewGroupRecord" />
+                            <option value="Task.UpdateStatus" />
+                            <option value="Task.Defer_0" />
+                            <option value="Task.UpdateStatus_0" />
+                            <option value="Candidate__c.New_Job_App" />
+                            <option value="Case.NewChildCase" />
+                            <option value="Case.LogACall" />
+                            <option value="NewContact" />
+                            <option value="NewCase" />
+                            <option value="LogACall" />
+                            <option value="NewEvent" />
+                          </set>
+                        </option>
+                        <option name="name" value="QuickAction" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Debug_communicate_with_vip" />
+                            <option value="MyTestProcess" />
+                            <option value="TestEmail" />
+                            <option value="sse" />
+                            <option value="qwer" />
+                            <option value="Closed_Won_Opportunities" />
+                            <option value="communicate_with_VIP_Clients" />
+                            <option value="ghmn" />
+                            <option value="Quick_Account" />
+                            <option value="Renew_Opportunity" />
+                            <option value="xdf" />
+                            <option value="New_Lead" />
+                            <option value="Send_email_record_s_owner_about_communication_with_VIP_client" />
+                          </set>
+                        </option>
+                        <option name="name" value="FlowDefinition" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Account.Account_Type_To_Pending" />
+                            <option value="Account.Account_Type_To_Prospect" />
+                            <option value="Opportunity.Not_Approved" />
+                            <option value="Account.Account_Type_To_Customer" />
+                          </set>
+                        </option>
+                        <option name="name" value="WorkflowFieldUpdate" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Account" />
+                            <option value="Opportunity" />
+                            <option value="Contact" />
+                            <option value="Case" />
+                          </set>
+                        </option>
+                        <option name="name" value="Workflow" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Contact.VIP_Status__c" />
+                            <option value="Position__c.Status__c" />
+                            <option value="Review__c.Recommend_for_Hire__c" />
+                            <option value="Position__c.Approval_Status__c" />
+                            <option value="Job_Application__c.Stage__c" />
+                            <option value="Account.NumberofLocations__c" />
+                            <option value="Candidate__c.Mobile__c" />
+                            <option value="Position__c.Operating_Systems__c" />
+                            <option value="Review__c.Experience__c" />
+                            <option value="Shop__c.Monthly_Revenue__c" />
+                            <option value="Review__c.Leadership_Skills__c" />
+                            <option value="Opportunity.OrderNumber__c" />
+                            <option value="Candidate__c.Currently_Employed__c" />
+                            <option value="Review__c.Job_Application__c" />
+                            <option value="Job_Posting_Site__c.Job_Posting_Site_URL__c" />
+                            <option value="Job_Application__c.Total_Review_Score__c" />
+                            <option value="Review__c.Interviewer__c" />
+                            <option value="Case.PotentialLiability__c" />
+                            <option value="Campaign.DB_Campaign_Tactic__c" />
+                            <option value="Activity.DB_Activity_Type__c" />
+                            <option value="Candidate__c.Education__c" />
+                            <option value="Candidate__c.Last_Name__c" />
+                            <option value="Job_Application__c.Average_Review_Score__c" />
+                            <option value="Candidate__c.Email__c" />
+                            <option value="Opportunity.DB_Competitor__c" />
+                            <option value="CaseComment.ParentOrigin" />
+                            <option value="Language_Course__c.Language_Course_Designer__c" />
+                            <option value="Shop__c.Corporation__c" />
+                            <option value="Opportunity.DeliveryInstallationStatus__c" />
+                            <option value="Position__c.Education__c" />
+                            <option value="Candidate__c.Street_Address_1__c" />
+                            <option value="Shop__c.Director__c" />
+                            <option value="Opportunity.Discount_Percent__c" />
+                            <option value="Goal.OrigGoalId__c" />
+                            <option value="Candidate__c.Years_of_Experience__c" />
+                            <option value="Review__c.Core_Competencies_Comments__c" />
+                            <option value="Position__c.Salary_Range__c" />
+                            <option value="Account.SLA__c" />
+                            <option value="Position__c.Related_Position__c" />
+                            <option value="Review__c.Overall_Review_Score__c" />
+                            <option value="Zip_Code__c.City__c" />
+                            <option value="CaseComment.CommentBody" />
+                            <option value="Position__c.Skills_Required__c" />
+                            <option value="Job_Application__c.Status__c" />
+                            <option value="Job_Posting_Site__c.Description__c" />
+                            <option value="Candidate__c.Zip_Postal_Code__c" />
+                            <option value="Contact.Last_Communocation_Day__c" />
+                            <option value="Opportunity.CurrentGenerators__c" />
+                            <option value="Position__c.Job_Description__c" />
+                            <option value="Opportunity.Discount_Percent_Status__c" />
+                            <option value="Candidate__c.City__c" />
+                            <option value="Lead.ProductInterest__c" />
+                            <option value="Lead.NumberofLocations__c" />
+                            <option value="Case.Product__c" />
+                            <option value="Review__c.Position_Title__c" />
+                            <option value="Candidate__c.Current_Employer__c" />
+                            <option value="User.DB_Region__c" />
+                            <option value="Job_Application__c.Number_of_Reviews__c" />
+                            <option value="Candidate__c.Legacy_Candidate_Number__c" />
+                            <option value="Case.SLAViolation__c" />
+                            <option value="Lead.Primary__c" />
+                            <option value="Position__c.Department__c" />
+                            <option value="Lead.CurrentGenerators__c" />
+                            <option value="Corporation__c.Country__c" />
+                            <option value="Position__c.Pay_Grade__c" />
+                            <option value="Opportunity.MainCompetitors__c" />
+                            <option value="Position__c.Legacy_Position_Number__c" />
+                            <option value="Account.SLASerialNumber__c" />
+                            <option value="Account.UpsellOpportunity__c" />
+                            <option value="Job_Posting_Site__c.Status__c" />
+                            <option value="Account.CustomerPriority__c" />
+                            <option value="Review__c.Candidate_Name__c" />
+                            <option value="Candidate__c.First_Name__c" />
+                            <option value="Job_Posting__c.Job_Posting_Site__c" />
+                            <option value="Position__c.Location__c" />
+                            <option value="Lead.DB_Lead_Age__c" />
+                            <option value="Review__c.Experience_Comments__c" />
+                            <option value="Corporation__c.Sum_Annul_Revenue__c" />
+                            <option value="Metric.OrigMetricId__c" />
+                            <option value="Case.EngineeringReqNumber__c" />
+                            <option value="Job_Posting_Site__c.Technical_Site__c" />
+                            <option value="Job_Application__c.Position__c" />
+                            <option value="Account.SLAExpirationDate__c" />
+                            <option value="Candidate__c.State_Province__c" />
+                            <option value="Job_Application__c.Candidate__c" />
+                            <option value="Lead.DB_Created_Date_without_Time__c" />
+                            <option value="Review__c.Core_Competencies__c" />
+                            <option value="Position__c.Hiring_Manager__c" />
+                            <option value="Zip_Code__c.State__c" />
+                            <option value="Opportunity.TrackingNumber__c" />
+                            <option value="Review__c.Leadership_Skills_Comments__c" />
+                            <option value="Account.Active__c" />
+                            <option value="Job_Application__c.Legacy_Job_Application_Number__c" />
+                            <option value="Shop__c.Annual_Estimated_Revenue__c" />
+                            <option value="Review__c.Reason_Recommended__c" />
+                            <option value="Contact.Level__c" />
+                            <option value="Interviewer__c.Employee__c" />
+                            <option value="Candidate__c.Country__c" />
+                            <option value="Interviewer__c.Position__c" />
+                            <option value="Lead.SICCode__c" />
+                            <option value="Contact.Languages__c" />
+                            <option value="Job_Application__c.Review_Indicator__c" />
+                            <option value="Candidate__c.Street_Address_2__c" />
+                            <option value="Position__c.Programming_Languages__c" />
+                            <option value="Candidate__c.Phone__c" />
+                            <option value="Job_Posting__c.Position__c" />
+                            <option value="Interviewer__c.Legacy_Interviewer_Number__c" />
+                          </set>
+                        </option>
+                        <option name="name" value="CustomField" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="ConsumptionSchedule" />
+                            <option value="Account" />
+                            <option value="Task" />
+                            <option value="CollaborationGroup" />
+                            <option value="AuthorizationFormConsent" />
+                            <option value="ForecastingCategoryMapping" />
+                            <option value="OpportunityLineItem" />
+                            <option value="CaseContactRole" />
+                            <option value="Language_Course__c" />
+                            <option value="Activity" />
+                            <option value="MessagingEndUser" />
+                            <option value="Image" />
+                            <option value="Document" />
+                            <option value="ContactCleanInfo" />
+                            <option value="Job_Application__c" />
+                            <option value="ScorecardMetric" />
+                            <option value="PushTopic" />
+                            <option value="Candidate__c" />
+                            <option value="ContractContactRole" />
+                            <option value="FeedItem" />
+                            <option value="ExchangeUserMapping" />
+                            <option value="SocialPersona" />
+                            <option value="Asset" />
+                            <option value="Language_Course_Designer__c" />
+                            <option value="ContactPointTypeConsent" />
+                            <option value="PromptAction" />
+                            <option value="CampaignMember" />
+                            <option value="Order" />
+                            <option value="CollaborationGroupMember" />
+                            <option value="StreamingChannel" />
+                            <option value="AccountContactRole" />
+                            <option value="EmailMessage" />
+                            <option value="Position__c" />
+                            <option value="AccountCleanInfo" />
+                            <option value="Pricebook2" />
+                            <option value="UserProvisioningRequest" />
+                            <option value="OrgDeleteRequest" />
+                            <option value="Recommendation" />
+                            <option value="PricebookEntry" />
+                            <option value="Campaign" />
+                            <option value="LeadCleanInfo" />
+                            <option value="AuthorizationForm" />
+                            <option value="Idea" />
+                            <option value="Individual" />
+                            <option value="Applicant__c" />
+                            <option value="ExpressionFilter" />
+                            <option value="Contract" />
+                            <option value="ChatterActivity" />
+                            <option value="ScorecardAssociation" />
+                            <option value="PartnerRole" />
+                            <option value="OpportunityCompetitor" />
+                            <option value="Shop__c" />
+                            <option value="DataUsePurpose" />
+                            <option value="Site" />
+                            <option value="MacroAction" />
+                            <option value="User" />
+                            <option value="ContactRequest" />
+                            <option value="ProductConsumptionSchedule" />
+                            <option value="Product2" />
+                            <option value="Macro" />
+                            <option value="MacroInstruction" />
+                            <option value="ExpressionFilterCriteria" />
+                            <option value="DuplicateRecordItem" />
+                            <option value="CaseComment" />
+                            <option value="Case" />
+                            <option value="Job_Posting__c" />
+                            <option value="AuthorizationFormText" />
+                            <option value="ContentVersion" />
+                            <option value="Opportunity" />
+                            <option value="Lead" />
+                            <option value="DuplicateRecordSet" />
+                            <option value="Topic" />
+                            <option value="Scorecard" />
+                            <option value="Solution" />
+                            <option value="Review__c" />
+                            <option value="StreamActivityAccess" />
+                            <option value="AssetRelationship" />
+                            <option value="QuickText" />
+                            <option value="DandBCompany" />
+                            <option value="DataUseLegalBasis" />
+                            <option value="Corporation__c" />
+                            <option value="OpportunityContactRole" />
+                            <option value="Job_Posting_Site__c" />
+                            <option value="AuthorizationFormDataUse" />
+                            <option value="Contact" />
+                            <option value="RequestsForAccessSIQ" />
+                            <option value="OrderItem" />
+                            <option value="MessagingSession" />
+                            <option value="AssistantProgress" />
+                            <option value="ConsumptionRate" />
+                            <option value="Event" />
+                            <option value="Zip_Code__c" />
+                            <option value="RecordAction" />
+                            <option value="TopicAssignment" />
+                            <option value="Interviewer__c" />
+                          </set>
+                        </option>
+                        <option name="name" value="CustomObject" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Hiring_Manager" />
+                            <option value="Test" />
+                            <option value="Delete_Accounts" />
+                            <option value="My_Perm_Set" />
+                          </set>
+                        </option>
+                        <option name="name" value="PermissionSet" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="FiscalYearPeriodPrefix" />
+                            <option value="TaskPriority" />
+                            <option value="EventType" />
+                            <option value="CaseContactRole" />
+                            <option value="WorkOrderStatus" />
+                            <option value="Product2Family" />
+                            <option value="Industry" />
+                            <option value="CasePriority" />
+                            <option value="OrderType" />
+                            <option value="ContractContactRole" />
+                            <option value="TaskType" />
+                            <option value="IdeaStatus" />
+                            <option value="AccountRating" />
+                            <option value="SalesTeamRole" />
+                            <option value="CampaignType" />
+                            <option value="WorkOrderLineItemStatus" />
+                            <option value="AccountOwnership" />
+                            <option value="SolutionStatus" />
+                            <option value="AccountContactRole" />
+                            <option value="RoleInTerritory2" />
+                            <option value="CampaignMemberStatus" />
+                            <option value="ServiceContractApprovalStatus" />
+                            <option value="LeadSource" />
+                            <option value="CaseType" />
+                            <option value="CaseStatus" />
+                            <option value="OpportunityCompetitor" />
+                            <option value="PartnerRole" />
+                            <option value="QuickTextChannel" />
+                            <option value="CampaignStatus" />
+                            <option value="QuoteStatus" />
+                            <option value="ContractStatus" />
+                            <option value="EventSubject" />
+                            <option value="AssetStatus" />
+                            <option value="FiscalYearQuarterName" />
+                            <option value="Salutation" />
+                            <option value="ContactRole" />
+                            <option value="FiscalYearQuarterPrefix" />
+                            <option value="LeadStatus" />
+                            <option value="IdeaMultiCategory" />
+                            <option value="OrderStatus" />
+                            <option value="SocialPostEngagementLevel" />
+                            <option value="AccountContactMultiRoles" />
+                            <option value="EntitlementType" />
+                            <option value="FiscalYearPeriodName" />
+                            <option value="TaskSubject" />
+                            <option value="TaskStatus" />
+                            <option value="AccountType" />
+                            <option value="OpportunityStage" />
+                            <option value="SocialPostClassification" />
+                            <option value="CaseReason" />
+                            <option value="IdeaThemeStatus" />
+                            <option value="WorkOrderPriority" />
+                            <option value="QuickTextCategory" />
+                            <option value="OpportunityType" />
+                            <option value="SocialPostReviewedStatus" />
+                            <option value="CaseOrigin" />
+                          </set>
+                        </option>
+                        <option name="name" value="StandardValueSet" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="unfiled$public" />
+                          </set>
+                        </option>
+                        <option name="name" value="EmailFolder" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="unfiled$public" />
+                            <option value="DB_Adoption" />
+                          </set>
+                        </option>
+                        <option name="name" value="ReportFolder" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Salesforce_Adoption_Dashboards" />
+                          </set>
+                        </option>
+                        <option name="name" value="DashboardFolder" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="DB_Adoption/DB_Adoption_Count_of_Accounts" />
+                            <option value="DB_Adoption/DB_Adoption_OPPTYS_by_STAGE_entered" />
+                            <option value="DB_Adoption/DB_Adoption_OPPTYS_w_No_Opp_Product" />
+                            <option value="DB_Adoption/DB_Adoption_Count_of_all_CONTACTS" />
+                            <option value="DB_Adoption/DB_Adoption_OPPORTUNITIES_Trend" />
+                            <option value="DB_Adoption/DB_Adoption_OPPORTUNITY_Trend_Owner" />
+                            <option value="DB_Adoption/DB_Adoption_Count_of_LEADS" />
+                            <option value="DB_Adoption/DB_Adoption_PROSPECT_w_Fields_Populated" />
+                            <option value="DB_Adoption/DB_Adoption_New_Leads_Last_30_Days" />
+                            <option value="DB_Adoption/DB_Adoption_New_Accounts_Trend" />
+                            <option value="DB_Adoption/DB_Adoption_New_Contacts_Trend" />
+                            <option value="DB_Adoption/DB_Adoption_Login_Wall_of_Fame" />
+                            <option value="DB_Adoption/DB_Adoption_New_ACTIVITIES_Trend" />
+                            <option value="DB_Adoption/DB_Adoption_Neglected_OPPTYS" />
+                            <option value="DB_Adoption/DB_Adoption_Login_by_Role" />
+                            <option value="DB_Adoption/DB_Adoption_Lead_Abandonment" />
+                            <option value="DB_Adoption/DB_Adoption_Neglected_Prospects" />
+                            <option value="DB_Adoption/DB_Adoption_Mass_Emails_Created" />
+                            <option value="DB_Adoption/Active_User_Logins" />
+                            <option value="DB_Adoption/DB_Adoption_Last_Run_Reports" />
+                            <option value="DB_Adoption/DB_Adoption_Funnel_Load_Rate" />
+                            <option value="DB_Adoption/DB_Adoption_CONTACTS_wO_Fields_Populated" />
+                            <option value="DB_Adoption/Active_Users" />
+                            <option value="DB_Adoption/DB_Adoption_OPPTYS_wo_Fields_Populated" />
+                            <option value="DB_Adoption/DB_Adoption_Leads_Converted_Last_365" />
+                            <option value="DB_Adoption/DB_Adoption_Campaigns" />
+                            <option value="DB_Adoption/DB_Adoption" />
+                            <option value="DB_Adoption/DB_Adoption_Count_of_OPPTYS_last_365" />
+                            <option value="DB_Adoption/DB_Adoption_ACTIVITIES_Wall_of_Shame" />
+                            <option value="DB_Adoption/DB_Adoption_Login_by_Department" />
+                            <option value="DB_Adoption/DB_Adoption_Login_Wall_of_Shame" />
+                            <option value="DB_Adoption/DB_Adoption_Login_by_Region" />
+                            <option value="DB_Adoption/DB_Adoption_New_Leads_Trend" />
+                            <option value="DB_Adoption/DB_Adoption_New_OPPORTUNITIES_last_30" />
+                            <option value="DB_Adoption/DB_Adoption_New_Accounts_Last_30_Days" />
+                            <option value="DB_Adoption/DB_Adoption_Campaigns_by_Status" />
+                            <option value="DB_Adoption/DB_Adoption_Neglected_Customers" />
+                            <option value="DB_Adoption/DB_Adoption_Count_of_OPPTYS" />
+                            <option value="DB_Adoption/DB_Adoption_ACTIVITIES_Wall_of_Fame" />
+                            <option value="DB_Adoption/DB_Adoption_New_ACTIVITIES_last_30_Days" />
+                            <option value="DB_Adoption/DB_Adoption_Campaigns_Last_30_Days" />
+                            <option value="DB_Adoption/DB_Adoption_ACCOUNTS_w_o_Fields_Pop" />
+                          </set>
+                        </option>
+                        <option name="name" value="Report" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="unfiled$public/SUPPORTSelfServiceResetPasswordSAMPLE" />
+                            <option value="unfiled$public/Approve_Opportunity_Discount" />
+                            <option value="unfiled$public/SupportSelfServiceResetPassword" />
+                            <option value="unfiled$public/SupportCaseCreatedPhoneInquiries" />
+                            <option value="unfiled$public/SupportSelfServiceNewLoginandPassword" />
+                            <option value="unfiled$public/SUPPORTSelfServiceNewUserLoginInformationSAMPLE" />
+                            <option value="unfiled$public/SupportCaseAssignmentNotification" />
+                            <option value="unfiled$public/Communicate_with_VIP_client" />
+                            <option value="unfiled$public/SupportCaseResponse" />
+                            <option value="unfiled$public/SalesNewCustomerEmail" />
+                            <option value="unfiled$public/Notification_of_New_Case_for_Large_Account" />
+                            <option value="unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE" />
+                            <option value="unfiled$public/SupportEscalatedCaseNotification" />
+                            <option value="unfiled$public/SupportCaseCreatedWebInquiries" />
+                            <option value="unfiled$public/MarketingProductInquiryResponse" />
+                            <option value="unfiled$public/SupportEscalatedCaseReassignment" />
+                          </set>
+                        </option>
+                        <option name="name" value="EmailTemplate" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Salesforce_Adoption_Dashboards/X2_Key_Feature_Adoption" />
+                            <option value="Salesforce_Adoption_Dashboards/X1_User_Adoption_Logins" />
+                            <option value="Salesforce_Adoption_Dashboards/X3_Sales_Marketing_Adoption" />
+                          </set>
+                        </option>
+                        <option name="name" value="Dashboard" />
+                      </MetadataType>
+                    </set>
+                  </option>
+                </MetadataContents>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </ProjectWorkspaceSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dmitriy_sedin_epam_com_dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dmitriy_sedin_epam_com_dev" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dmitriy_sedin_epam_com_dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dmitriy_sedin_epam_com_dev" type="462c0819:PsiDirectoryNode" />
+              <item name="IlluminatedCloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dmitriy_sedin_epam_com_dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dmitriy_sedin_epam_com_dev" type="462c0819:PsiDirectoryNode" />
+              <item name="IlluminatedCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="dmitriy_sedin_epam_com_dev" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dmitriy_sedin_epam_com_dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a94f6951-3de0-410b-828a-9242a78ec452" name="Default Changelist" comment="" />
+      <created>1563537770461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563537770461</updated>
+      <workItem from="1563537771607" duration="152000" />
+      <workItem from="1563537934690" duration="1611000" />
+      <workItem from="1563539807809" duration="1093000" />
+      <workItem from="1563541156772" duration="1845000" />
+    </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1563541129612</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563541129612</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4701000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" id="Version Control" order="3" visible="true" weight="0.3846154" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Log Viewer" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SOQL Query" order="9" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/IlluminatedCloud/dmitriy_sedin_epam_com_dev/OfflineSymbolTable.zip!/System/Aura.cls">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/IlluminatedCloud/dmitriy_sedin_epam_com_dev/OfflineSymbolTable.zip!/System/AccessType.cls">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/IlluminatedCloud/dmitriy_sedin_epam_com_dev/OfflineSymbolTable.zip!/Workflow/Action.cls">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/profiles/Admin.profile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/objects/Account.object">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/applications/MyApp.app">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/package.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4956" />
+      </provider>
+    </entry>
+  </component>
+</project>
