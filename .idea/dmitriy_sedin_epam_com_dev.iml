@@ -37,6 +37,10 @@
                             <option name="selected" value="true" />
                           </MetadataEntry>
                           <MetadataEntry>
+                            <option name="name" value="AccountTriggerHandlerHelperTest" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
                             <option name="name" value="ContactAndLeadSearch" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
@@ -58,6 +62,10 @@
                           </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="TaskTriggerHandlerHelper" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="TaskTriggerHandlerHelperTest" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
                           <MetadataEntry>
